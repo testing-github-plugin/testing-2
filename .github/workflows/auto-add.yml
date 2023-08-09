@@ -14,6 +14,6 @@ jobs:
         with:
           # You can target a project in a different organization
           # to the issue
-          project-url: https://github.com/orgs/mattermost/projects/9
+          project-url: https://github.com/orgs/testing-github-plugin/projects/1
           github-token: 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
 
