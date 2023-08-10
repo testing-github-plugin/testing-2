@@ -14,5 +14,5 @@ jobs:
         with:
           # You can target a project in a different organization
           # to the issue
-          project-url: https://github.com/orgs/testing-github-plugin/projects/1
-          github-token: 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
+          project-url: https://github.com/orgs/mattermost/projects/9
+          github-token: ${{ secrets.ADD_TO_PROJECT }}
