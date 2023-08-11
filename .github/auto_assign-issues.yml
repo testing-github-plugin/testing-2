@@ -1,2 +1,2 @@
-# If enabled, auto-assigns users when a new issue is created 
+# If enabled, auto-assigns users when a new issue is created abc
 # Defaults to true, allows you to install the app globally, and disable on a per-repo basis
