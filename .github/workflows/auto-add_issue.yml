@@ -15,4 +15,5 @@ jobs:
           # You can target a project in a different organization
           # to the issue
           project-url: https://github.com/orgs/mattermost/projects/9
-          github-token: ${{ secrets.ADD_TO_PROJECT }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
